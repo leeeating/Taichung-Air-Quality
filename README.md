@@ -24,25 +24,25 @@ PM2.5是一種細懸浮微粒為飄散在空氣中的極微小的顆粒物質，
                     <td>
                         <span class="bor-top-green">良好<br>
                             0~50</span>
-                    </td>
-                    <td>
-                        <span class="bor-top-yellow">普通<br>
+                        </td>
+                        <td>
+                            <span class="bor-top-yellow">普通<br>
                             51~100</span>
-                    </td>
-                    <td>
-                        <span class="bor-top-orange">對敏感族群不健康<br>
+                        </td>
+                        <td>
+                            <span class="bor-top-orange">對敏感族群不健康<br>
                             101~150</span>
-                    </td>
-                    <td>
-                        <span class="bor-top-red">對所有族群不健康<br>
+                        </td>
+                        <td>
+                            <span class="bor-top-red">對所有族群不健康<br>
                             151~200</span>
-                    </td>
-                    <td>
-                        <span class="bor-top-purple">非常不健康<br>
+                        </td>
+                        <td>
+                            <span class="bor-top-purple">非常不健康<br>
                             201~300</span>
-                    </td>
-                    <td>
-                        <span class="bor-top-brown">危害<br>
+                        </td>
+                        <td>
+                            <span class="bor-top-brown">危害<br>
                             301~500</span>
                     </td>
                 </tr>
@@ -58,3 +58,12 @@ PM2.5是一種細懸浮微粒為飄散在空氣中的極微小的顆粒物質，
 平均值計算從2011年1月1號開始到2020年12月31日，會有18170筆資料，先計算出各區每日0時到23時的每小時平均，再利用24個小時平均繪製出日平均圖。日平均由10年裡每月1號到31號的日平均，用31個日平均繪製出月平均圖。年平均圖是用每年12個月的月平均繪製出來。十年平均是用2011到2020的年平均所繪製的。
 
 
+## 輸出成果
+
+![日平均](https://github.com/leeeating/Taichung-Air-Quality/blob/main/%E6%97%A5%E5%B9%B3%E5%9D%87.png)
+
+![月平均](https://github.com/leeeating/Taichung-Air-Quality/blob/main/%E6%9C%88%E5%B9%B3%E5%9D%87.png)
+
+![年平均](https://github.com/leeeating/Taichung-Air-Quality/blob/main/%E5%B9%B4%E5%B9%B3%E5%9D%87.png)
+
+![十年平均](https://github.com/leeeating/Taichung-Air-Quality/blob/main/%E5%8D%81%E5%B9%B4%E5%B9%B3%E5%9D%87.png)
