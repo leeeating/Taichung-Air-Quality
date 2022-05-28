@@ -12,7 +12,41 @@
 
 ## 背景知識
 PM2.5是一種細懸浮微粒為飄散在空氣中的極微小的顆粒物質，PM為英文名稱 particulate matter的簡寫。 PM2.5的定義為粒徑範圍在2.5微米或以下的細懸浮微粒，而粒徑範圍在2.5μm ~10μm稱為粗懸浮微粒，單位以微克/立方公尺(μg/m3 )表示之。
-
 懸浮粒子的成分很複雜，主要的來源是從地表揚起的塵土，含有氧化物礦物和其他成分。一部分懸浮粒子是自然過程產生的，源自火山爆發、沙塵暴、森林火災、浪花等。PM2.5還可以由硫和氮的氧化物轉化而成。而這些氣體污染物往往是人類對化石燃料（煤、石油等）和垃圾的燃燒造成的。
 因此世界各國各自制定PM2.5濃度的指標，臺灣依照PM2.5濃度分成十個等級，且給出活動建議，如以下圖片所示
 
+<div class="MyTable AQI">
+                        <p class="MyCaption">空氣品質指標 (AQI)</p>
+                        <div class="AQIlegend">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <span class="bor-top-green">良好<br>
+                                                0~50</span>
+                                        </td>
+                                        <td>
+                                            <span class="bor-top-yellow">普通<br>
+                                                51~100</span>
+                                        </td>
+                                        <td>
+                                            <span class="bor-top-orange">對敏感族群不健康<br>
+                                                101~150</span>
+                                        </td>
+                                        <td>
+                                            <span class="bor-top-red">對所有族群不健康<br>
+                                                151~200</span>
+                                        </td>
+                                        <td>
+                                            <span class="bor-top-purple">非常不健康<br>
+                                                201~300</span>
+                                        </td>
+                                        <td>
+                                            <span class="bor-top-brown">危害<br>
+                                                301~500</span>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
