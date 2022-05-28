@@ -16,40 +16,40 @@ PM2.5是一種細懸浮微粒為飄散在空氣中的極微小的顆粒物質，
 因此世界各國各自制定PM2.5濃度的指標，臺灣依照PM2.5濃度分成十個等級，且給出活動建議，如以下圖片所示
 
 <div class="MyTable AQI">
-                        <p class="MyCaption">空氣品質指標 (AQI)</p>
-                        <div class="AQIlegend">
-                            <table>
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                            <span class="bor-top-green">良好<br>
-                                                0~50</span>
-                                        </td>
-                                        <td>
-                                            <span class="bor-top-yellow">普通<br>
-                                                51~100</span>
-                                        </td>
-                                        <td>
-                                            <span class="bor-top-orange">對敏感族群不健康<br>
-                                                101~150</span>
-                                        </td>
-                                        <td>
-                                            <span class="bor-top-red">對所有族群不健康<br>
-                                                151~200</span>
-                                        </td>
-                                        <td>
-                                            <span class="bor-top-purple">非常不健康<br>
-                                                201~300</span>
-                                        </td>
-                                        <td>
-                                            <span class="bor-top-brown">危害<br>
-                                                301~500</span>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-                    </div>
+    <p class="MyCaption">空氣品質指標 (AQI)</p>
+    <div class="AQIlegend">
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <span class="bor-top-green">良好<br>
+                            0~50</span>
+                    </td>
+                    <td>
+                        <span class="bor-top-yellow">普通<br>
+                            51~100</span>
+                    </td>
+                    <td>
+                        <span class="bor-top-orange">對敏感族群不健康<br>
+                            101~150</span>
+                    </td>
+                    <td>
+                        <span class="bor-top-red">對所有族群不健康<br>
+                            151~200</span>
+                    </td>
+                    <td>
+                        <span class="bor-top-purple">非常不健康<br>
+                            201~300</span>
+                    </td>
+                    <td>
+                        <span class="bor-top-brown">危害<br>
+                            301~500</span>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
 
 ## 資料處理步驟
 
